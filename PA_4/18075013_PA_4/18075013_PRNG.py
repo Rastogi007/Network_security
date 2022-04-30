@@ -1,3 +1,7 @@
+#Name: Asht Bhuja Prasad Rastogi
+#Roll No. 18075013
+#Branch: CSE
+
 from itertools import islice
 import random as rnd
 import numpy as np
